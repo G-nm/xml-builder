@@ -1,8 +1,15 @@
-<!-- 101833 Mwaniki George Ng'ang'a - ICS 4A -->
 <?xml version="1.0"?>
 <users>
-  <name>Mwaniki George Ng'ang'a</name>
-  <grade>A</grade>
-  <name>John Doe</name>
-  <grade>A+</grade>
+  <student>
+    <name>George Mwaniki</name>
+    <grade>A</grade>
+  </student>
+  <student>
+    <name>John Doe</name>
+    <grade>B+</grade>
+  </student>
+  <student>
+    <name>Lisa Doe</name>
+    <grade>A+</grade>
+  </student>
 </users>
